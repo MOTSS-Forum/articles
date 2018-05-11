@@ -1,0 +1,19 @@
+[1]
+    Name = "文章"
+    URL = "/post"
+
+[2]
+    Name = "分类"
+    URL = "/topics"
+
+[3]
+    Name = "标签"
+    URL = "/tags"
+
+# [4]
+#     Name = "关于"
+#     URL = "/about"
+
+[5]
+    Name = "论坛"
+    URL = "https://bbs.motss.info"
