@@ -1,7 +1,7 @@
 ---
 type: post
 author: 烟玉暖阳
-topics: [吐槽一刻]
+categories: [吐槽一刻]
 tags: [离婚, 男女, Gay, 乱象]
 title: 从男女离婚高发，到所谓G圈太乱
 date: 2013-01-10 23:45:28

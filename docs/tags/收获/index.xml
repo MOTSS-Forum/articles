@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>收获 on Blog | MOTSS Forum</title>
+    <title>收获 on Blog | 酷儿论坛</title>
     <link>/tags/%E6%94%B6%E8%8E%B7/</link>
-    <description>Recent content in 收获 on Blog | MOTSS Forum</description>
+    <description>Recent content in 收获 on Blog | 酷儿论坛</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-EN</language>
-    <managingEditor>motss@motss.info (MOTSS)</managingEditor>
-    <webMaster>motss@motss.info (MOTSS)</webMaster>
-    <copyright>(c) 2018 MOTSS Forum</copyright>
+    <language>zh-cn</language>
     <lastBuildDate>Thu, 24 Jan 2013 04:24:16 +0000</lastBuildDate>
     
 	<atom:link href="/tags/%E6%94%B6%E8%8E%B7/index.xml" rel="self" type="application/rss+xml" />
@@ -16,10 +13,10 @@
     
     <item>
       <title>写在离校之前</title>
-      <link>/2013/01/24/%E5%86%99%E5%9C%A8%E7%A6%BB%E6%A0%A1%E4%B9%8B%E5%89%8D/</link>
+      <link>/post/%E5%86%99%E5%9C%A8%E7%A6%BB%E6%A0%A1%E4%B9%8B%E5%89%8D/</link>
       <pubDate>Thu, 24 Jan 2013 04:24:16 +0000</pubDate>
-      <author>motss@motss.info (MOTSS)</author>
-      <guid>/2013/01/24/%E5%86%99%E5%9C%A8%E7%A6%BB%E6%A0%A1%E4%B9%8B%E5%89%8D/</guid>
+      
+      <guid>/post/%E5%86%99%E5%9C%A8%E7%A6%BB%E6%A0%A1%E4%B9%8B%E5%89%8D/</guid>
       <description>天亮了就要回家了，看了看时间，是凌晨三点，微博人人神马的已经刷不出东西了，貌似只有我醒着，床单被套通通拿去洗了，于是我只能熬个通宵，留一点点</description>
     </item>
     

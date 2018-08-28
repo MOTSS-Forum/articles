@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>平等 on Blog | MOTSS Forum</title>
+    <title>平等 on Blog | 酷儿论坛</title>
     <link>/tags/%E5%B9%B3%E7%AD%89/</link>
-    <description>Recent content in 平等 on Blog | MOTSS Forum</description>
+    <description>Recent content in 平等 on Blog | 酷儿论坛</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-EN</language>
-    <managingEditor>motss@motss.info (MOTSS)</managingEditor>
-    <webMaster>motss@motss.info (MOTSS)</webMaster>
-    <copyright>(c) 2018 MOTSS Forum</copyright>
+    <language>zh-cn</language>
     <lastBuildDate>Sun, 25 Oct 2015 23:16:09 +0000</lastBuildDate>
     
 	<atom:link href="/tags/%E5%B9%B3%E7%AD%89/index.xml" rel="self" type="application/rss+xml" />
@@ -16,10 +13,10 @@
     
     <item>
       <title>同一片天空 | LGBT在校园：你们为什么不举手？</title>
-      <link>/2015/10/25/%E5%90%8C%E4%B8%80%E7%89%87%E5%A4%A9%E7%A9%BA--lgbt%E5%9C%A8%E6%A0%A1%E5%9B%AD%E4%BD%A0%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E4%B8%BE%E6%89%8B/</link>
+      <link>/post/lgbt%E5%9C%A8%E6%A0%A1%E5%9B%AD%E4%BD%A0%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E4%B8%BE%E6%89%8B/</link>
       <pubDate>Sun, 25 Oct 2015 23:16:09 +0000</pubDate>
-      <author>motss@motss.info (MOTSS)</author>
-      <guid>/2015/10/25/%E5%90%8C%E4%B8%80%E7%89%87%E5%A4%A9%E7%A9%BA--lgbt%E5%9C%A8%E6%A0%A1%E5%9B%AD%E4%BD%A0%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E4%B8%BE%E6%89%8B/</guid>
+      
+      <guid>/post/lgbt%E5%9C%A8%E6%A0%A1%E5%9B%AD%E4%BD%A0%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E4%B8%BE%E6%89%8B/</guid>
       <description>前几天我在 @圆桌骑士会 和我们的公众号发了一篇讨论缘分版规的文章（关注公众号motss2002回复”缘分“查看），里面提到了学校中师生之间不对</description>
     </item>
     

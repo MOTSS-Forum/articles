@@ -1,87 +1,59 @@
-# hostname (and path) to the root eg. http://spf13.com/
 baseurl = "/"
+title = "Blog | 酷儿论坛"
+languageCode = "zh-cn"
+DefaultContentLanguage = "zh-cn"
 
-# Site title
-title = "Blog | MOTSS Forum"
-
-# Copyright
-copyright = "(c) 2018 MOTSS Forum"
-
-# Language
-languageCode = "en-EN"
-
-# Metadata format
-# "yaml", "toml", "json"
 metaDataFormat = "yaml"
 hasCJKLanguage = true
 
-# Theme to use (located in /themes/THEMENAME/)
-theme = "hyde-y"
-
-# Pagination
+theme = "mainroad"
 paginate = 10
 paginatePath = "page"
 
-# Enable Disqus integration
 #disqusShortname = ""
+#googleAnalytics = ""
 
-[permalinks]
-    post = "/:year/:month/:day/:slug/"
-    code = "/:slug/"
+# [menu]
+#   [[menu.main]]
+#     identifier = "bbs"
+#     name = "进入论坛"
+#     url = "https://bbs.motss.info"
+#     weight = -110
 
-[taxonomies]
-    tag = "tags"
-    topic = "topics"
+[Author]
+    name = "Blog | MOTSS Forum"
 
-[author]
-    name = "MOTSS"
-    email = "motss@motss.info"
+[Params]
+  subtitle = "论坛上的存货"
+  description = "" 
+  opengraph = true
+  twitter_cards = true 
+  readmore = false 
+  authorbox = false 
+  toc = false 
+  post_navigation = true 
+  postSections = ["post"] 
+  #postSections = ["blog", "news"] # alternative that shows more than one section's pages
+  #dateformat = "2006-01-02" # change the format of dates
+  #mathjax = true # Enable MathJax
+  #mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js" # Specify MathJax path
+  #mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
 
-#
-# All parameters below here are optional and can be mixed and matched.
-#
-[params]
-    # You can use markdown here.
-    brand = "MOTSS"
-    topline = "酷儿论坛的存货！"
-    footline = "Built with <i class='fa fa-heart'></i>"
+[Params.sidebar]
+  home = "right" 
+  list = "left"  
+  single = false 
+  widgets = ["search", "recent", "categories", "taglist", "social"]
 
-    # Sidebar position
-    # false, true, "left", "right"
-    sidebar = "left"
+[Params.widgets]
+  recent_num = 5 
+  tags_counter = false 
 
-    # Text for the top menu link, which goes the root URL for the site.
-    # Default (if omitted) is "Home".
-    # home = "Home"
-
-    # Select a syntax highight.
-    # Check the static/css/highlight directory for options.
-    highlight = "github"
-
-    # Google Analytics.
-    # googleAnalytics = "Your Google Analytics tracking code"
-
-    # Sidebar social links.
-    github = "motss-forum/articles" # Your Github profile ID
-    # bitbucket = "" # Your Bitbucket profile ID
-    # linkedin = "" # Your LinkedIn profile ID (from public URL)
-    # googleplus = "" # Your Google+ profile ID
-    # facebook = "" # Your Facebook profile ID
-    # twitter = "" # Your Twitter profile ID
-    # youtube = ""  # Your Youtube channel ID
-    # flattr = ""  # populate with your flattr uid
-    # flickr = "" # Your Flickr profile ID
-    # vimeo = "" # Your Vimeo profile ID
-
-    # Sidebar RSS link: will only show up if there is a RSS feed
-    # associated with the current page
-    rss = true
-
-[blackfriday]
-    angledQuotes = true
-    fractions = false
-    hrefTargetBlank = false
-    latexDashes = true
-    plainIdAnchors = true
-    extensions = []
-    extensionmask = []
+[Params.widgets.social]
+#   facebook = "username"
+#   twitter = "username"
+#   linkedin = "username"
+#   telegram = "username"
+  github = "MOTSS-forum"
+  email = "motss@motss.info"
+#   google_plus = "profileid"

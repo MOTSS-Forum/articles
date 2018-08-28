@@ -1,7 +1,7 @@
 ---
 type: post
 author: 南京大学性别性向平等协会
-topics: [同言碎语]
+categories: [同言碎语]
 tags: [平等, 异常, 教育]
 title: 同一片天空 | LGBT在校园：你们为什么不举手？
 date: 2015-10-25 23:16:09
