@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>上海 on Blog | 酷儿论坛</title>
-    <link>/tags/%E4%B8%8A%E6%B5%B7/</link>
+    <link>articles/tags/%E4%B8%8A%E6%B5%B7/</link>
     <description>Recent content in 上海 on Blog | 酷儿论坛</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 21 Dec 2014 21:14:06 +0000</lastBuildDate>
     
-	<atom:link href="/tags/%E4%B8%8A%E6%B5%B7/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="articles/tags/%E4%B8%8A%E6%B5%B7/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>行至上海</title>
-      <link>/post/%E8%A1%8C%E8%87%B3%E4%B8%8A%E6%B5%B7/</link>
+      <link>articles/post/%E8%A1%8C%E8%87%B3%E4%B8%8A%E6%B5%B7/</link>
       <pubDate>Sun, 21 Dec 2014 21:14:06 +0000</pubDate>
       
-      <guid>/post/%E8%A1%8C%E8%87%B3%E4%B8%8A%E6%B5%B7/</guid>
+      <guid>articles/post/%E8%A1%8C%E8%87%B3%E4%B8%8A%E6%B5%B7/</guid>
       <description>仔细想想爱上一座城之于我似乎是太难展开的话题。生活过18年的南方小镇太过熟稔，林林总总的回忆大多是波澜不惊的生活乏善可陈；生活了两年的杭州又</description>
     </item>
     
