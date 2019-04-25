@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>征文比赛 on Blog | 酷儿论坛</title>
-    <link>/articles/categories/%E5%BE%81%E6%96%87%E6%AF%94%E8%B5%9B/</link>
+    <link>/categories/%E5%BE%81%E6%96%87%E6%AF%94%E8%B5%9B/</link>
     <description>Recent content in 征文比赛 on Blog | 酷儿论坛</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 21 Dec 2014 21:14:06 +0000</lastBuildDate>
     
-	<atom:link href="/articles/categories/%E5%BE%81%E6%96%87%E6%AF%94%E8%B5%9B/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/%E5%BE%81%E6%96%87%E6%AF%94%E8%B5%9B/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>行至上海</title>
-      <link>/articles/post/%E8%A1%8C%E8%87%B3%E4%B8%8A%E6%B5%B7/</link>
+      <link>/post/%E8%A1%8C%E8%87%B3%E4%B8%8A%E6%B5%B7/</link>
       <pubDate>Sun, 21 Dec 2014 21:14:06 +0000</pubDate>
       
-      <guid>/articles/post/%E8%A1%8C%E8%87%B3%E4%B8%8A%E6%B5%B7/</guid>
+      <guid>/post/%E8%A1%8C%E8%87%B3%E4%B8%8A%E6%B5%B7/</guid>
       <description>仔细想想爱上一座城之于我似乎是太难展开的话题。生活过18年的南方小镇太过熟稔，林林总总的回忆大多是波澜不惊的生活乏善可陈；生活了两年的杭州又</description>
     </item>
     
     <item>
       <title>必有回响</title>
-      <link>/articles/post/%E5%BF%85%E6%9C%89%E5%9B%9E%E5%93%8D/</link>
+      <link>/post/%E5%BF%85%E6%9C%89%E5%9B%9E%E5%93%8D/</link>
       <pubDate>Thu, 18 Dec 2014 10:10:04 +0000</pubDate>
       
-      <guid>/articles/post/%E5%BF%85%E6%9C%89%E5%9B%9E%E5%93%8D/</guid>
+      <guid>/post/%E5%BF%85%E6%9C%89%E5%9B%9E%E5%93%8D/</guid>
       <description>我从南方的城市往南方走 他们说杭州每年只有一场雪 风风火火 如约而至 在此之前 他们绝口不提 在此之前 我深知日子是逆着时间的行走 我常常一个人去湖边 静静地</description>
     </item>
     
     <item>
       <title>爱上一座城，吻别一个人</title>
-      <link>/articles/post/%E7%88%B1%E4%B8%8A%E4%B8%80%E5%BA%A7%E5%9F%8E%E5%90%BB%E5%88%AB%E4%B8%80%E4%B8%AA%E4%BA%BA/</link>
+      <link>/post/%E7%88%B1%E4%B8%8A%E4%B8%80%E5%BA%A7%E5%9F%8E%E5%90%BB%E5%88%AB%E4%B8%80%E4%B8%AA%E4%BA%BA/</link>
       <pubDate>Wed, 17 Dec 2014 14:15:18 +0000</pubDate>
       
-      <guid>/articles/post/%E7%88%B1%E4%B8%8A%E4%B8%80%E5%BA%A7%E5%9F%8E%E5%90%BB%E5%88%AB%E4%B8%80%E4%B8%AA%E4%BA%BA/</guid>
+      <guid>/post/%E7%88%B1%E4%B8%8A%E4%B8%80%E5%BA%A7%E5%9F%8E%E5%90%BB%E5%88%AB%E4%B8%80%E4%B8%AA%E4%BA%BA/</guid>
       <description>1992年的冬天。 2015年的开始。 我在这城市生活了22周年。 惭愧的说，却从未有走出过这座城。心中有座围城，围住了心，因为那里只能守着你。 眨</description>
     </item>
     
     <item>
       <title>从2001到2012——最美的青春年华</title>
-      <link>/articles/post/%E4%BB%8E2001%E5%88%B02012%E6%9C%80%E7%BE%8E%E7%9A%84%E9%9D%92%E6%98%A5%E5%B9%B4%E5%8D%8E/</link>
+      <link>/post/%E4%BB%8E2001%E5%88%B02012%E6%9C%80%E7%BE%8E%E7%9A%84%E9%9D%92%E6%98%A5%E5%B9%B4%E5%8D%8E/</link>
       <pubDate>Tue, 08 May 2012 11:34:01 +0000</pubDate>
       
-      <guid>/articles/post/%E4%BB%8E2001%E5%88%B02012%E6%9C%80%E7%BE%8E%E7%9A%84%E9%9D%92%E6%98%A5%E5%B9%B4%E5%8D%8E/</guid>
+      <guid>/post/%E4%BB%8E2001%E5%88%B02012%E6%9C%80%E7%BE%8E%E7%9A%84%E9%9D%92%E6%98%A5%E5%B9%B4%E5%8D%8E/</guid>
       <description>如果你和我一样，30而立，看我的文字应该会有共鸣。如果你比我小5岁，那么我的文字是一个哥哥的经历。如果你比我小10岁，那么就是叔叔的经历了。</description>
     </item>
     
