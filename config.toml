@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "/articles/"
 title = "Blog | 酷儿论坛"
 languageCode = "zh-cn"
 DefaultContentLanguage = "zh-cn"
