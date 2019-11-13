@@ -33,6 +33,7 @@ paginatePath = "page"
   toc = false 
   post_navigation = true 
   postSections = ["post"] 
+  highlightColor = "#3da742" # Override highlight color
   #postSections = ["blog", "news"] # alternative that shows more than one section's pages
   #dateformat = "2006-01-02" # change the format of dates
   #mathjax = true # Enable MathJax
